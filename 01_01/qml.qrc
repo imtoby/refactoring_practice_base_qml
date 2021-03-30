@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>createStatementData.js</file>
+        <file>JsonModel.qml</file>
+        <file>json/plays.json</file>
+        <file>json/invoices.json</file>
+    </qresource>
+</RCC>
